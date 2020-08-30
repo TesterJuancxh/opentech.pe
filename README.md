@@ -3,7 +3,7 @@
 </p>
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f6ad4d4e-3128-43db-a06e-6f63790cba6c/deploy-status)](https://app.netlify.com/sites/opentech/deploys) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/opentech-pe/opentech.pe/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6ad4d4e-3128-43db-a06e-6f63790cba6c/deploy-status)](https://app.netlify.com/sites/opentech/deploys) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/opentech-pe/opentech.pe/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
 
 
 
@@ -35,3 +35,16 @@ _NOTA: Si necesitas ayuda con este proceso, ya sea porque eres nuevo en GitHub, 
 ## :scroll: Código de Conducta
 
 Nuestros eventos se rigen por el siguiente [Código de conducta](/CODE_OF_CONDUCT.md)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
