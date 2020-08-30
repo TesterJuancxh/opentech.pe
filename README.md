@@ -26,7 +26,7 @@ Somos una comunidad con ganas de aprender siempre abierta a nuevas propuestas de
 
 :speaker: [Propón una charla](https://github.com/opentech-pe/opentech.pe/issues/new?assignees=jhonfitzgerald%2C+paulotijero%2C+manuelrojasc&labels=cfp&template=propuesta-de-charla.md&title=Título+de+tu+charla+.+.+.) :metal:
 
-_NOTA: Si necesitas ayuda con este proceso porque eres nuevo con GitHub o git, no dudes en abrir un issue o contactarnos por Slack. Nos encanta ayudar_ :wink:
+_NOTA: Si necesitas ayuda con este proceso, ya sea porque eres nuevo en GitHub, no dudes en abrir un Issue o contactarnos por Slack. Nos encanta ayudar_ :wink:
 
 <!-- ### Sponsors
 
@@ -36,9 +36,9 @@ _NOTA: Si necesitas ayuda con este proceso porque eres nuevo con GitHub o git, n
 
 Nuestros eventos se rigen por el siguiente [Código de conducta](/CODE_OF_CONDUCT.md)
 
-## Contributors ✨
+## Contribuidores ✨
 
-Gracias a estas maravillosas personas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Gracias a estas increíbles personas, que lo hace posible ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
